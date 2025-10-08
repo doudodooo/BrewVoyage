@@ -2,7 +2,7 @@
 
 **BrewVoage** is a small project designed to help people find cozy cafes in Warsaw — perfect spots for working, studying, or meeting friends.
 
-🔗 **Live App:** [Open in Glide](https://go.glideapps.com/play/3ClkqFTQnnS5SDkhTIZf)
+🔗 **Live App:** [Open in Glide](https://brewvoyage-wgcw.glide.page)
 
 ---
 
